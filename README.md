@@ -6,7 +6,7 @@ This project is a machine learning model designed to classify Iris flower specie
 **Algorithm**: K-Nearest Neighbors
 **Accuracy**: 97%
 **Installation**
-To run this project locally, you’ll need:
+To run this project locally, you’ll need to have:
 
 **Python 3.**
 **Required libraries** (Pandas, Numpy, Matplotlib, Scikit Learn, Mglearn)
