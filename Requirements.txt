@@ -1,0 +1,7 @@
+Django>=3.0
+djangorestframework>=3.11
+numpy>=1.18
+pandas>=1.0
+matplotlib>=3.2
+scikit-learn>=0.22
+sqlite3>=3.31
