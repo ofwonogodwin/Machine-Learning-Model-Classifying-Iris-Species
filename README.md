@@ -41,9 +41,3 @@ pip install pandas numpy matplotlib scikit-learn mglearn
   <li>Experiment with other algorithms or ensemble methods.</li>
 </ul>
 
-<h2>Repository Stats</h2>
-<p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Arison99/Yo-clinic-v.1.0.2?style=social">
-  <img alt="Forks" src="https://img.shields.io/github/forks/Arison99/Yo-clinic-v.1.0.2?style=social">
-  <img alt="Watchers" src="https://img.shields.io/github/watchers/Arison99/Yo-clinic-v.1.0.2?style=social">
-</p>
