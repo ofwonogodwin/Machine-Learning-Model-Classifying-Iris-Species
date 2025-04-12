@@ -1,4 +1,4 @@
-# Iris Classification Model <br>
+# Iris Classification Model (To Be modified In May)
 
 ## Project Overview
   This project is a machine learning model designed to classify Iris flower species (Setosa, Versicolor, Virginica) based on their sepal and petal dimensions. <br>The model was trained and evaluated using the Iris dataset, a classic dataset in machine learning.<br>
