@@ -19,7 +19,7 @@
   <li>Required libraries: Pandas, Numpy, Matplotlib, Scikit Learn, Mglearn</li>
 </ul>
 
-<h2>Step-by-Step Guide</h2>
+## Step-by-Step Guide
 <p>Clone the repository:</p>
 <pre>
 git clone https://github.com/ofwonogodwin/Machine-Learning-Model-Classifying-Iris-Species
