@@ -20,14 +20,7 @@
 </ul>
 
 ## Step-by-Step Guide
-<p>Clone the repository:</p>
-<pre>
-git clone https://github.com/ofwonogodwin/Machine-Learning-Model-Classifying-Iris-Species
-</pre>
-<p>Install the required libraries:</p>
-<pre>
-pip install pandas numpy matplotlib scikit-learn mglearn
-</pre>
+To be Worked on
 
 <h2>Usage</h2>
 <ul>
