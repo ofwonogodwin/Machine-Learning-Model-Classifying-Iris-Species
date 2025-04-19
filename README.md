@@ -17,8 +17,8 @@
   <li>Required libraries: Pandas, Numpy, Matplotlib, Scikit Learn, Mglearn</li>
 </ul>
 
-## Step-by-Step Guide
-To be Worked on
+## Step-by-Step Guide 
+To be Worked on soon
 
 <h2>Usage</h2>
 <ul>
