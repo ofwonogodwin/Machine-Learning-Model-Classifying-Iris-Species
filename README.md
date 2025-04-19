@@ -14,7 +14,7 @@
 <p>To run this project locally, you’ll need to have:</p>
 <ul>
   <li>Python 3</li>
-  <li>Required libraries: Pandas, Numpy, Matplotlib, Scikit Learn, Mglearn</li>
+  <li>Required libraries: Pandas, Numpy, Matplotlib, Scikit Learn, Mglearn.</li>
 </ul>
 
 ## Step-by-Step Guide 
